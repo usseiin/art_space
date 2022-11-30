@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Art Space</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title">Title</string>
+    <string name="photo_name">Photo by Name</string>
+    <string name="year">(2020)</string>
+    <string name="title_one">Eid al fitr 3</string>
+    <string name="title_two">Eid al fitr 5</string>
+    <string name="title_three">Jemileyin Wedding</string>
+    <string name="title_four">Glorious comedy</string>
+    <string name="name_one">Obada Emeka</string>
+    <string name="name_two">Akinola Oketoobo</string>
+    <string name="name_three">Kehinde HASSAN</string>
+    <string name="name_four">Hussein HASSAN</string>
+    <string name="y_2020">2020</string>
 </resources>
